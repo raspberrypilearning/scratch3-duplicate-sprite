@@ -1,59 +1,15 @@
-## Introduction
+## Duplicate a Sprite in Scratch3
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Right-click on your first sprite in the Sprite list below the Stage (or if you are using a tablet, tap and hold):
+![Image right click first sprite](images/challenge1-right-click-sprite.png){:width="300px"}
 
-### What you will make
+Select **duplicate**. This will create a copy of your first sprite with the suffix "2":
+![Image duplicate sprite](images/challenge1-duplicate-sprite.png){:width="300px"}
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Rename your sprite:
+![Image rename sprite](images/challenge1-rename-sprite.png){:width="300px"}
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Your sprite's name will change in the Sprite list:
+![Image change name in list](images/challenge1-sprite-list.png){:width="300px"}
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you will not see the second sprite because it is positioned underneath the first sprite.
