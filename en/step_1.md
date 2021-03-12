@@ -1,4 +1,4 @@
-## Duplicate a Sprite in Scratch3
+## Duplicate a Sprite
 
 Right-click on your first sprite in the Sprite list below the Stage (or if you are using a tablet, tap and hold):
 ![Image right click first sprite](images/challenge1-right-click-sprite.png){:width="300px"}
