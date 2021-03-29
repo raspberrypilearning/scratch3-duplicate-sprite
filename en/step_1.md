@@ -1,7 +1,7 @@
-Right-click on your first sprite in the Sprite list below the Stage (or if you are using a tablet, tap and hold):
+Right-click (or if you are using a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
 ![Image right click first sprite](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite with the suffix "2":
+Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
 ![Image duplicate sprite](images/challenge1-duplicate-sprite.png){:width="300px"}
 
 Rename your sprite:
