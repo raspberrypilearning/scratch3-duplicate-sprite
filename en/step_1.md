@@ -1,11 +1,11 @@
-Right-click (or if you are using a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
-![The Sprite list with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
 
 Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
 ![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
 Rename your sprite:
-![The Sprite properties pane with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![The Sprite properties pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
 
 Your sprite's name will change in the Sprite list:
 ![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
