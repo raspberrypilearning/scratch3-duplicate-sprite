@@ -8,7 +8,7 @@ Select **duplicate**. This will create a copy of your first sprite, with the suf
 
 Rename your sprite:
 
-![The Sprite properties pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
 
 Your sprite's name will change in the Sprite list:
 
