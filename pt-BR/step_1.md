@@ -2,7 +2,7 @@ Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite li
 
 ![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+Selecione **Duplicar**. This will create a copy of your first sprite, with the suffix "2":
 
 ![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
