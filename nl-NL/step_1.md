@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+Klik met de rechtermuisknop (of tik op een tablet en houd vast) op je eerste sprite in de Sprite lijst onder het werkgebied:
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![De Sprite lijst, met de eerste sprite gemarkeerd en een pop-upmenu met de opties 'dupliceren', 'exporteren' en 'verwijderen'.](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+Klik op **dupliceren**. Dit maakt een kopie van je eerste sprite, met het achtervoegsel "2":
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![De sprite lijst met de eerste sprite en de gekopieerde sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+Geef je sprite een nieuwe naam:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![Het Sprite venster, met het veld 'Sprite' gemarkeerd.](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+De naam van je sprite verandert in de sprite lijst:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![De Sprite lijst met de gekopieerde sprite met een nieuwe naam.](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+Je tweede sprite heeft exact dezelfde code als je eerste sprite. Voer het programma niet uit voordat je bent begonnen met het wijzigen van de code van de tweede sprite - het kan zijn dat je de tweede sprite niet ziet omdat deze zich onder de eerste sprite bevindt.
