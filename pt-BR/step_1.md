@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+Clique com o botão direito (ou em um tablet, toque e segure) em seu primeiro ator na lista de atores abaixo do Palco:
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![A lista de atores, com o primeiro atorem destaque e um menu pop-up mostrando as opções 'duplicar', 'exportar' e 'excluir'.](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Selecione **Duplicar**. This will create a copy of your first sprite, with the suffix "2":
+Selecione **Duplicar**. Isso criará uma cópia do seu primeiro ator, com o sufixo "2":
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![A lista de atores mostrando o primeiro ator e o ator duplicado.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+Renomeie seu ator:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![O painel ator, com o campo 'Ator' destacado.](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+O nome do seu ator mudará na lista de atores:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![A lista de atores mostrando o ator duplicado com um novo nome.](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+Seu segundo ator tem exatamente o mesmo código de seu primeiro ator. Não corra seu programa até ter começado a alterar o código do segundo ator - você poderá não ver o segundo ator porque poderá estar posicionado por baixo do primeiro.
