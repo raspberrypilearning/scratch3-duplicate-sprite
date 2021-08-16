@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+Κάντε δεξί κλικ (ή σε tablet, πατήστε παρατεταμένα) στο πρώτο σας μπλοκ γραφικών στη λίστα μπλοκ γραφικών κάτω από το Stage:
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![Η λίστα μπλοκ γραφικών, με το πρώτο μπλοκ γραφικών να επισημαίνεται και ένα αναδυόμενο μενού που δείχνει τις επιλογές «διπλότυπο», «εξαγωγή» και «διαγραφή».](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+Επιλέξτε **διπλότυπο**. Αυτό θα δημιουργήσει ένα αντίγραφο του πρώτου σας μπλοκ γραφικών, με το επίθημα "2":
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![Η λίστα μπλοκ γραφικών δείχνει το πρώτο μπλοκ γραφικών και το αντίγραφο μπλοκ γραφικών.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+Μετονόμασε ένα μπλοκ γραφικών:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![Το παράθυρο μπλοκ γραφικών, με το πεδίο "μπλοκ γραφικών" επισημασμένο.](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+Το όνομα του μπλοκ γραφικών σας θα αλλάξει στη λίστα μπλοκ γραφικών:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![Η λίστα μπλοκ γραφικών δείχνει το αντίγραφο μπλοκ γραφικών με νέο όνομα.](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+Το δεύτερο μπλοκ γραφικών σας έχει ακριβώς τον ίδιο κωδικό με το πρώτο μπλοκ γραφικών. Μην εκτελέσετε το πρόγραμμα έως ότου αρχίσετε να αλλάζετε τον κωδικό του δεύτερου μπλοκ γραφικών - μπορεί να μην βλέπετε το δεύτερο μπλοκ γραφικών επειδή μπορεί να βρίσκεται κάτω από το πρώτο.
