@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+انقر بزر الماوس الأيمن (أو على جهاز لوحي ، انقر مع الاستمرار) على أول كائن في قائمة Sprite أسفل المنصة:
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![قائمة كائن، مع تمييز الكائن الأول وقائمة منبثقة تعرض الخيارات "تكرار" و "تصدير" و "حذف".](images/challenge1-right-click-sprite.png){:width="300px"}
 
-حدد **مكرر**. This will create a copy of your first sprite, with the suffix "2":
+حدد **مكرر**. سيؤدي هذا إلى إنشاء نسخة من الكائن الأول الخاص بك ، مع اللاحقة "2":
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![قائمة الكائن تعرض الكائن الأول والكائن المكرر.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+إعادة تسمية الكائن:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![جزء كائن، مع تمييز حقل "كائن".](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+سيتغير اسم الكائن الخاص بك في قائمة الكائنات:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![قائمة كائن تعرض الكائن المكرر باسم جديد.](images/challenge1-sprite-list.png){:width="300px"}
 
-الكائن الثاني الخاص بك له نفس التعليمات البرمجية للكائن الأول بالضبط. لا تقم بتشغيل البرنامج حتى تبدأ في تغيير تعليمات البرمجية للكائن الثاني - فقد لا ترى الكائن الثاني لأنه قد يكون موضوعًا أسفل الكائن الأول.
+الكائن الثاني الخاص بك له نفس التعليمات البرمجية للكائن الأول بالضبط. لا تقم بتشغيل البرنامج حتى تبدأ في تغيير التعليمات البرمجية للكائن الثاني - فقد لا ترى الكائن الثاني لأنه قد يكون موضوعًا أسفل الكائن الأول.
