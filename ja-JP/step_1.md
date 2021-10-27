@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+ステージの下のスプライトリストにある最初のスプライトを右クリック（またはタブレットではタップ＆ホールド）します。
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![スプライトリスト。最初のスプライトが強調表示され、ポップアップメニューに「複製」、「書き出し」、「削除」のオプションが表示されています。](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+**複製**を選択します。 これにより、末尾に「2」が付いた最初のスプライトのコピーが作成されます。
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![最初のスプライトと複製されたスプライトを表示するスプライトリスト。](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+スプライトの名前を変更します。
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![「スプライト」フィールドが強調表示されたスプライトペーン。](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+スプライトの名前がスプライトリストで変更されます。
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![新しい名前の複製したスプライトを示すスプライトリスト。](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+2番目のスプライトには、最初のスプライトとまったく同じコードがあります。 2番目のスプライトのコードの変更を開始するまでプログラムを実行しないでください。2番目のスプライトは最初のスプライトの下に配置されている可能性があるため、表示されない場合があります。
