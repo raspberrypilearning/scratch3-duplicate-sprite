@@ -6,12 +6,12 @@ Selecciona **duplicar**. Esto creará una copia de tu primer objeto, con el sufi
 
 ![La lista de objetos mostrando el primer objeto y el objeto duplicado.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+Renombra tu objeto:
 
 ![El panel de objetos, con el campo 'objeto' resaltado.](images/challenge1-rename-sprite.png){:width="300px"}
 
 El nombre de tu objeto cambiará en la lista de objetos:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![La lista de objetos mostrando el objeto duplicado con un nuevo nombre.](images/challenge1-sprite-list.png){:width="300px"}
 
 Tu segundo objeto tiene exactamente el mismo código que tu primer objeto. No ejecutes el programa hasta que hayas comenzado a cambiar el código del segundo objeto; es posible que no veas el segundo objeto porque podría estar ubicado debajo del primero.
