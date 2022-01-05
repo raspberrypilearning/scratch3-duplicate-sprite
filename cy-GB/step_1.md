@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+De-glicia (neu ar dabled, taro a dal) dy gorlun cyntaf yn y rhestr Corluniau sydd islaw'r Llwyfan:
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![Y rhestr Corluniau, gyda'r corlun cyntaf wedi'i amlygu a naidlen yn dangos yr opsiynau 'dyblygu', 'allforio', a 'dileu'.](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+Dewisa **dyblygu**. Bydd hyn yn creu copi o dy gorlun cyntaf, gyda'r ôl-ddodiad "2":
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![Y rhestr Corluniau yn dangos y corlun cyntaf a'r corlun dyblyg.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+Rho enw newydd i dy gorlun:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![Y cwarel Corlun, gyda'r maes 'Corlun' wedi'i amlygu.](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+Bydd enw dy gorlun yn newid yn y rhestr Corluniau:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![Y rhestr Corluniau yn dangos y corlun dyblyg gydag enw newydd.](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+Mae gan dy ail gorlun yr un cod yn union â dy gorlun cyntaf. Paid â rhedeg y rhaglen nes dy fod wedi dechrau newid cod yr ail gorlun - efallai na weli di'r ail gorlun oherwydd mae'n bosib ei fod o dan y corlun cyntaf.
