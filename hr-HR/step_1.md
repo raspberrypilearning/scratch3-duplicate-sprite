@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+Desnom tipkom miša klikni (ili na tabletu dodirni i drži) na svog prvog lika s popisa likova ispod pozornice:
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![Popis likova, s istaknutim prvim likom i skočnim izbornikom koji prikazuje opcije „Dupliciraj”, „izvoz” i „obriši”.](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+Odaberi **Dupliciraj**. Ovo će stvoriti kopiju tvog prvog lika, sa sufiksom 2:
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![Popis likova koji prikazuje prvog lika i duplikat lika.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+Preimenuj lika:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![Okno lika, s označenim poljem „Lik”.](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+Ime tvog lika će se promijeniti na popisu likova:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![Popis lika koji prikazuje duplikat lika s novim imenom.](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+Tvoj drugi lik ima potpuno isti kôd kao tvoj prvi lik. Ne pokreći program dok ne počneš mijenjati kôd drugog lika — možda nećeš vidjeti drugi lik jer bi se mogao nalaziti ispod prvog lika.
