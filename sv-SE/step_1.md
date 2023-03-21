@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+Högerklicka (eller på en surfplatta, tryck och håll kvar) på din första sprajt i sprajtlistan under scenen:
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![Sprajtlistan, med den första sprajt markerad och en popup-meny som visar alternativen "duplicera", "exportera" och "radera".](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+Välj **duplicera**. Detta kommer att skapa en kopia av din första sprajt, med ändelsen "2":
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![Sprajtlistan som visar den första sprajten och den duplicerade sprajten.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+Byt namn på din sprajt:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![Sprajtrutan, med "Sprajt"-fältet markerat.](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+Din sprajts namn kommer att ändras i sprajtlistan:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![Sprajtlistan som visar den duplicerade sprajten med ett nytt namn.](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+Din andra sprajt har exakt samma kod som din första. Kör inte programmet förrän du har börjat ändra den andra sprajten kod – du kanske inte ser den andra sprajten eftersom den kan vara placerad under den första.
