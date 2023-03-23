@@ -1,8 +1,8 @@
 Högerklicka (eller på en surfplatta, tryck och håll kvar) på din första sprajt i sprajtlistan under scenen:
 
-![Sprajtlistan, med den första sprajt markerad och en popup-meny som visar alternativen "duplicera", "exportera" och "radera".](images/challenge1-right-click-sprite.png){:width="300px"}
+![Sprajtlistan, med den första sprajt markerad och en popup-meny som visar alternativen "kopiera", "exportera" och "radera".](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Välj **duplicera**. Detta kommer att skapa en kopia av din första sprajt, med ändelsen "2":
+Välj **kopiera**. Detta kommer att skapa en kopia av din första sprajt, med ändelsen "2":
 
 ![Sprajtlistan som visar den första sprajten och den duplicerade sprajten.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
