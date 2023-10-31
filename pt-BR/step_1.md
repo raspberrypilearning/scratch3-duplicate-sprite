@@ -14,4 +14,4 @@ O nome do seu ator mudará na lista de atores:
 
 ![A lista de atores mostrando o ator duplicado com um novo nome.](images/challenge1-sprite-list.png){:width="300px"}
 
-Seu segundo ator tem exatamente o mesmo código de seu primeiro ator. Não corra seu programa até ter começado a alterar o código do segundo ator - você poderá não ver o segundo ator porque poderá estar posicionado por baixo do primeiro.
+Seu segundo ator tem exatamente o mesmo código de seu primeiro ator. Não execute seu programa até ter começado a alterar o código do segundo ator — talvez você não verá o segundo ator porque ele poderá estar posicionado por baixo do primeiro.
