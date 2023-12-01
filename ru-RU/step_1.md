@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+Нажмите правой кнопкой мыши (если на планшете, нажмите и удерживайте) на ваш первый спрайт в списке спрайтов под сценой:
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![Список спрайтов с выделенным первым спрайтом и всплывающим меню с параметрами "дублировать", "экспорт" и "удалить".](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+Выберите **дублировать**. Это создаст копию вашего первого спрайта с суффиксом "2":
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![Список спрайтов, показывающий первый спрайт и дубликат спрайта.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+Переименуйте свой спрайт:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![Панель спрайтов с выделенным полем "Спрайт".](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+Имя вашего спрайта изменится в списке спрайтов:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![Список спрайтов, показывающий дубликат спрайта с новым именем.](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+Ваш второй спрайт имеет точно такой же код, как и ваш первый спрайт. Не запускайте программу, пока не начнете изменять код второго спрайта — вы можете не увидеть второй спрайт, потому что он может быть расположен под первым спрайтом.
