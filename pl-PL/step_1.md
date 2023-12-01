@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+Kliknij prawym przyciskiem myszy (lub na tablecie stuknij i przytrzymaj) swojego pierwszego duszka na liście duszków pod sceną:
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![Lista duszków, z podświetlonym pierwszym duszkiem i menu podręczne z opcjami "duplikuj", "eksportuj" i "usuń".](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+Wybierz opcję **duplikuj**. Spowoduje to utworzenie kopii pierwszego duszka z końcówką "2" w nazwie:
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![Lista duszków pokazująca pierwszego duszka i jego duplikat.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+Zmień nazwę duszka:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![Panel duszków z wyróżnionym polem "Duszek".](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+Nazwa twojego duszka zmieni się na liście duszków:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![Lista duszków pokazująca duplikat duszka z nową nazwą.](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+Twój drugi duszek ma dokładnie taki sam kod jak pierwszy. Nie uruchamiaj programu, dopóki nie zaczniesz zmieniać kodu drugiego duszka — możesz nie widzieć drugiego duszka, ponieważ może być umieszczony dokładnie pod pierwszym duszkiem.
