@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+स्टेजच्या खाली असलेल्या स्प्राइट सूचीमध्ये तुमच्या पहिल्या स्प्राइटवर उजवे-क्लिक करा (किंवा टॅबलेटवर, टॅप करा आणि धरून ठेवा):
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![स्प्राईट यादी, प्रथम स्प्राइट हायलाइट केलेली आणि पॉप-अप मेनू 'डुप्लिकेट', 'एक्सपोर्ट' आणि 'डिलीट' पर्याय दर्शविते.](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+**नक्कल**निवडा. हे तुमच्या पहिल्या स्प्राईटची प्रत तयार करेल, प्रत्यय "2" सह:
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![प्रथम स्प्राईट आणि नक्कल स्प्राइट दर्शविणारी स्प्राईट सूची.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+तुमच्या स्प्राइटचे नाव बदला:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+!['स्प्राईट' फील्डसह, स्प्राइट उपखंड प्रकाशमय केला आहे.](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+स्प्राईट यादीत तुमच्या स्प्राईटचे नाव बदलेल:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![नवीन नावासह डुप्लिकेट स्प्राईट दर्शवणारी स्प्राईट सूची.](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+तुमच्या दुसऱ्या स्प्राईटमध्ये तुमच्या पहिल्या स्प्राईटसारखाच कोड आहे. जोपर्यंत तुम्ही दुसऱ्या स्प्राईटचा कोड बदलण्यास सुरुवात करत नाही तोपर्यंत कार्यक्रम चालवू नका — तुम्हाला कदाचित दुसरा स्प्राईट दिसणार नाही कारण तो पहिल्या स्प्राइटच्या खाली असू शकतो.
