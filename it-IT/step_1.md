@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+Fai clic con il pulsante destro del mouse (o su un tablet, tocca e tieni premuto) sul tuo primo sprite nell'elenco degli sprite sotto lo Stage:
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![L'elenco degli Sprite, con il primo sprite evidenziato e un menu a comparsa che mostra le opzioni 'duplica', 'esporta' ed 'elimina'.](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+Seleziona **duplica**. Questo creerà una copia del tuo primo sprite, con il suffisso "2":
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![L'elenco degli sprite che mostra il primo sprite e lo sprite duplicato.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+Rinomina il tuo sprite:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![Il pannello degli Sprite, con il campo 'Sprite' evidenziato.](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+Il nome del tuo sprite cambierà nell'elenco degli sprite:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![L'elenco degli sprite che mostra lo sprite duplicato con un nuovo nome.](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+Il tuo secondo sprite ha esattamente lo stesso codice del tuo primo sprite. Non eseguire il programma prima di aver modificato il codice del tuo secondo sprite - potresti non vedere alcuna differenza perché il secondo sprite potrebbe essere posizionato sotto il primo.
