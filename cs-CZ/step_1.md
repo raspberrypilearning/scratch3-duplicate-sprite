@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+Klikněte pravým tlačítkem (nebo na tabletu klepněte a podržte) na svoji první postavu v seznamu postav pod scénou:
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![Seznam postav s vybranou první postavou ve vyskakovacím menu nabízí možnostmi 'duplikovat', 'exportovat' a 'smazat'.](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+Vyberte **duplikát**. Tímto se vytvoří kopie vašeho prvního sprite s příponou „2“:
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![Seznam postav zobrazuje první postavu a duplicitní postavu.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+Přejmenovat postavu:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![Podokno postav se zvýrazněným polem postava.](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+Jméno vaší postavy se změní v seznamu sprite:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![Seznam postav zobrazující duplicitní postavu s novým názvem.](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+Váše druhá postav má přesně stejný kód jako první postava. Nespouštějte program, dokud nezačnete měnit kód druhé postavy – druhou postavu možná neuvidíte, protože může být umístěna pod první postavou.
