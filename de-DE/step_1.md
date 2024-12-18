@@ -1,17 +1,17 @@
-Right-click (or on a tablet, tap and hold) on your first sprite in the Sprite list below the Stage:
+Klicke mit der rechten Maustaste auf deine erste Figur in der Figuren-Liste unter der Bühne (oder auf einem Tablet: tippe und halte die Figur):
 
-![The Sprite list, with the first sprite highlighted and a pop-up menu showing the options 'duplicate', 'export', and 'delete'.](images/challenge1-right-click-sprite.png){:width="300px"}
+![Die Figuren-Liste mit der ersten hervorgehobenen Figur und einem Popup-Menü mit den Optionen „Duplizieren“, „Exportieren“ und „Löschen“.](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select **duplicate**. This will create a copy of your first sprite, with the suffix "2":
+Wähle **duplizieren**. Dadurch wird eine Kopie deiner ersten Figur mit dem Suffix „2“ erstellt:
 
-![The Sprite list showing the first sprite and the duplicate sprite.](images/challenge1-duplicate-sprite.png){:width="300px"}
+![Die Figuren-Liste zeigt die erste Figur und die neue (duplizierte) Figur.](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite:
+Eine Figur umbenennen:
 
-![The Sprite pane, with the 'Sprite' field highlighted.](images/challenge1-rename-sprite.png){:width="300px"}
+![Der Figuren-Bereich mit hervorgehobenem „Figuren“-Feld.](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list:
+Der Name deiner Figur ändert sich in der Figuren-Liste:
 
-![The Sprite list showing the duplicate sprite with a new name.](images/challenge1-sprite-list.png){:width="300px"}
+![Die Figuren-Liste zeigt die duplizierte Figur mit einem neuen Namen.](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have started to change the second sprite's code — you might not see the second sprite because it might be positioned underneath the first sprite.
+Deine zweite Figur hat genau denselben Code wie die erste Figur. Führe das Programm erst aus, wenn du begonnen hast, den Code der zweiten Figur zu ändern. Möglicherweise siehst du die zweite Figur nicht, weil es sich unter der ersten Figur befindet.
