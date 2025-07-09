@@ -14,4 +14,4 @@ Jméno vaší postavy se změní v seznamu sprite:
 
 ![Seznam postav zobrazující duplicitní postavu s novým názvem.](images/challenge1-sprite-list.png){:width="300px"}
 
-Váše druhá postav má přesně stejný kód jako první postava. Nespouštějte program, dokud nezačnete měnit kód druhé postavy – druhou postavu možná neuvidíte, protože může být umístěna pod první postavou.
+Váše druhá postav má přesně stejný kód jako první postava. Nespouštěj program, dokud nebudeš mít změněný kód druhé postavy – druhou postavu možná neuvidíš, protože může být umístěna pod první postavou.
